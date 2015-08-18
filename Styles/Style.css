@@ -126,26 +126,27 @@ body{
 
 
 /* Contains */
-#body1-featured
+.body1-featured
 	{
 	height: auto;
 	width: 960px;
 	top: auto;
 	}
-#body2-featured
+.left-featured
 	{
 	height: auto;
 	width: 480px;
 	top: auto;
 	left: 0px;
 	}
-#body3-featured
+.right-content
 	{
 	height: auto;
 	width: 480px;
-	float: left;
-	left: 480px;
-	top: 0px;
+	float: right;
+	overflow: auto;
+	z-index: auto;
+	position: static;
 }
 
 

@@ -18,12 +18,12 @@
 <div class="logo">Diggers Beach Volleyball</div>
 
 <ul class="menu">
-<li><a href="#" class="nav">Home </a></li>
-<li><a href="#" class="nav_even">About Volleyball</a>
+<li><a href="../Index.html" class="nav">Home </a></li>
+<li><a href="../About Volleyball.html" class="nav_even">About Volleyball</a>
 </li>
-<li><a href="#" class="nav">Who Can Play</a></li>
-<li><a href="#" class="nav_even">Sign Up</a></li>
-<li><a href="#" class="nav">Contact Us</a></li>     
+<li><a href="../Who Can Play.html" class="nav">Who Can Play</a></li>
+<li><a href="../Sign Up.html" class="nav_even">Sign Up</a></li>
+<li><a href="../Content Us.html" class="nav">Contact Us</a></li>     
 </ul>
 <!-- TemplateBeginEditable name="Edit1-Body" -->
 <p>Body Section</p>

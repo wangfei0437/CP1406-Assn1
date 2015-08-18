@@ -1,0 +1,157 @@
+@charset "UTF-8";
+/* CSS Document */
+p{
+	color: #0A428F;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	text-align: justify;
+}
+
+h1{
+	font-size: 48px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	color: #EFC732;
+	font-family: Verdana, Geneva, sans-serif;
+	top: auto;
+	right: auto;
+	text-align: center;
+}
+
+h2{font-size:22px;color:#343434;padding:10px 0 10px 0;margin:0px 0 20px 0;font-weight:normal;}
+h3{font-size:20px; color:#343434; padding:0; margin:0px; font-weight:normal;}
+
+/* Templates */
+#main_content{
+	width: 960px;
+	height: auto;
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+.header{
+	width: 960px;
+	height: 240px;
+	background-repeat: no-repeat;
+	background-image: url(../Images/beachNet.jpg);
+}
+
+.logo{
+	font-size: 50px;
+	height: 75px;
+	width: 960px;
+	position: absolute;
+	left: auto;
+	top: 176px;
+	color: #F0C831;
+	bottom: auto;
+}
+
+/* Menu */
+ul.menu {
+	display: block;
+	width: 960px;
+	height: 40px;
+	clear: both;
+	margin: 0;
+	padding: 0;
+	background-color: #FFFFFF;
+}
+ul.menu li {
+display:inline;}
+a.nav:link, a.nav:visited {
+	display: block;
+	float: left;
+	margin: 0;
+	width: 192px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	background-color: #0A4392;
+	color: #FFFFFF;
+	padding-top: 0;
+	padding-right: 0px;
+	padding-bottom: 0;
+	padding-left: 0px;
+	text-decoration: none;
+}
+a.nav_even:link, a.nav_even:visited {
+	display: block;
+	float: left;
+	padding: 0;
+	margin: 0;
+	width: 192px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	background-color: #F0C832;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.nav:hover, a.nav_even:hover{
+	display: block;
+	float: left;
+	padding: 0;
+	margin: 0;
+	width: 192px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+body{
+	background-color: #CCFFFF;
+}
+
+.footer{
+	width: 958px;
+	clear: both;
+	text-align: center;
+	background-repeat: no-repeat;
+	font-size: 18px;
+	color: #FFFFFF;
+	height: 40px;
+	background-image: url(../Images/sand.jpg);
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #d5d5d5;
+}
+
+
+/* Contains */
+#body1-featured
+	{
+	height: auto;
+	width: 960px;
+	top: auto;
+	}
+#body2-featured
+	{
+	height: auto;
+	width: 480px;
+	top: auto;
+	left: 0px;
+	}
+#body3-featured
+	{
+	height: auto;
+	width: 480px;
+	float: left;
+	left: 480px;
+	top: 0px;
+}
+
+
+.form{width:500px;float:left;clear:both;padding:0px 0 40px 20px;}
+.form_row{width:500px;float:left;clear:both;margin:20px 0 0 0;}
+.form_row label{width:120px;float:left;padding:5px 20px 0px 0;font-size:14px; color:#de462a; text-align:right; text-transform:lowercase;}
+.form_input{width:320px;height:35px;float:left;padding:0px 0px 0 10px; background-color:#E7E5DE; border:none; color:#000;}
+.form_textarea{width:320px;height:70px;float:left;padding:10px 0px 30px 10px; background-color:#E7E5DE; border:none; color:#000; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+input.form_submit{float:right; clear:both; margin:20px 30px 0 0px; width:149px; height:34px; text-align:center; color:#fff; font-size:16px; background: #666666; border:none; font-weight:bold; padding:0 0 0 0px; cursor:pointer;}

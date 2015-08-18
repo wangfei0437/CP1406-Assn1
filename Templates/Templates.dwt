@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Diggers Beach Volleyball</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../Styles/Style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="main_content">
+
+<div class="header">
+</div>
+<div class="logo">Diggers Beach Volleyball</div>
+
+<ul class="menu">
+<li><a href="#" class="nav">Home </a></li>
+<li><a href="#" class="nav_even">About Volleyball</a>
+</li>
+<li><a href="#" class="nav">Who Can Play</a></li>
+<li><a href="#" class="nav_even">Sign Up</a></li>
+<li><a href="#" class="nav">Contact Us</a></li>     
+</ul>
+<!-- TemplateBeginEditable name="Edit1-Body" -->
+<p>Body Section</p>
+<!-- TemplateEndEditable -->
+<div class="footer"> @2015 Diggers Beach Volleyball Designed By WangFei</div>
+</body>
+</html>
